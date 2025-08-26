@@ -1,4 +1,9 @@
 # soalZard.sln
+
+- **Link:** [Quera Problem #3537](https://quera.org/problemset/3537)
+- **Description:** Given an integer *n*, print the word “Woow!” with the number of 'o' letters equal to *n + 1* (“Wow!” for n=1, “Woow!” for n=2, etc.).
+- **Solution:** Implemented in C#.
+  
 namespace soalZard
 {
     internal class Program
